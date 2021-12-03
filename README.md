@@ -8,3 +8,15 @@
 - I applied LSTM (Long Short Term Memory) and pretrained embedding glovetwitter27b100dtxt to accomplish my project.
 
 ## Pipeline
+
+![pipeline](https://github.com/truongminhphung/fakenewsdetection/blob/master/static/images/fake_news.png?raw=true)
+
+## Demo
+
+![demo](https://github.com/truongminhphung/customer_propensity_to_purchase/blob/master/images/demo_fake_news.gif?raw=true)
+
+## Installation
+
+```
+    pip install -r requirements.txt
+```
